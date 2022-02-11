@@ -59,6 +59,10 @@ footer {
 footer p {
     color: hsl(215, 51%, 70%);
 }
+footer img {
+    border: 1px solid hsl(0, 0%, 100%);
+    border-radius: 500px;
+}
 #name {
     font-weight: 400;
     color: hsl(0, 0%, 100%);
