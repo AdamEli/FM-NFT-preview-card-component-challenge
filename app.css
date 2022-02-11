@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+    height: 100vh;
+    background-color: hsl(217, 54%, 11%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: "Outfit", sans-serif;
+}
+.card {
+    background-color: hsl(216, 50%, 16%);
+    width: 25em;
+    height: 45em;
+    border-radius: 1em;
+    padding: 2em;
+    text-align: left;
+    margin: 1em;
+}
+.mainImg {
+    border-radius: 1em;
+    width: 100%;
+}
+h1 {
+    color: hsl(0, 0%, 100%);
+}
+h2 {
+    color: hsl(215, 51%, 70%);
+    font-weight: 300;
+}
+.details p {
+    font-size: 18px;
+    display: inline-block;
+}
+.details {
+    display: flex;
+    justify-content: space-between;
+}
+
+footer {
+    border-top: 1px solid hsl(215, 32%, 27%);
+    margin: 1em 0;
+    padding: 1em;
+}
+.pfp {
+    width: 5em;
+}
+
+.price {
+    color: hsl(178, 100%, 50%);
+}
+.time {
+    color: hsl(215, 51%, 70%);
+}
+footer {
+    display: flex;
+    justify-content: space-between;
+}
+footer p {
+    color: hsl(215, 51%, 70%);
+}
+#name {
+    font-weight: 400;
+    color: hsl(0, 0%, 100%);
+}
