@@ -10,8 +10,7 @@ body {
 }
 .card {
     background-color: hsl(216, 50%, 16%);
-    width: 25em;
-    height: 45em;
+    max-width: 24em;
     border-radius: 1em;
     padding: 1.5em;
     text-align: left;
@@ -48,7 +47,7 @@ body {
 
 .mainImg {
     border-radius: 1em;
-    width: 100%;
+    max-width: 100%;
     /* opacity: 50%; */
 }
 
@@ -75,9 +74,19 @@ h2 {
 }
 .price {
     color: hsl(178, 100%, 50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.price img,
+.time img {
+    margin: 0.25em;
 }
 .time {
     color: hsl(215, 51%, 70%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 footer {
