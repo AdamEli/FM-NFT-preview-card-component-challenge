@@ -38,5 +38,5 @@ I got better at making a basic card and adding active states, including a hover 
 
 ## Author
 
--   Frontend Mentor - [@AdamEli](https://www.frontendmentor.io/profile/adameli)
+-   Frontend Mentor - [@AdamElitzur](https://www.frontendmentor.io/profile/adamelitzur)
 -   Twitter - [@adamcandoit](https://twitter.com/adamcandoit)
